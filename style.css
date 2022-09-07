@@ -1,0 +1,81 @@
+.conteiner{
+    width: 100%;
+    height: 100vh;
+}
+.header{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/header-bg.png);
+}
+.half-width{
+    width: 40%;
+    height: 500px;
+    float: left;
+    padding: 2%;
+    margin-left: 4%;
+    padding-bottom: 30px;
+}
+.half-width img{
+    width: 80%;
+    height: auto;
+}
+.m-top{
+    height: 300px;
+    width: 40%;
+    margin-top: 100px;
+}
+.half-width h1{
+    color:rgb(245, 66, 137);
+}
+.half-width a{
+    text-decoration: none;
+    background-color: rgb(245, 66, 137);
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 6px;
+}
+.latest-work{
+    width: 100%;
+    height: auto;
+    margin-top: 650px;
+    position: absolute;
+}
+.latest-work h2{
+    margin-top: 150px;
+    padding: 50px;
+    text-align: center;
+}
+.latest-work .flex{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.latest-work .flex img{
+    width: 31%;
+    height: auto;
+}
+footer{
+    width: 50%;
+    height: auto;
+    margin-top: 1500px;
+    margin-left: 25%;
+    text-align: center;
+}
+.f-header>p{
+    width: 400px;
+    margin: 0 auto;
+}
+.mail{
+    width: 800px;
+    background-color: rgb(245, 66, 137);
+    padding: 10px;
+    padding-top: 20px;
+    color: #fff;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+
+
+
